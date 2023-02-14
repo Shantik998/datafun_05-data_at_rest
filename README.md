@@ -1,7 +1,6 @@
 Shanti Kandel: 
 Data Analytics Fundamentals
-Project 5
-02/13/2023
+Project 5: Date: 02/13/2023
 
 
 TASK 1:
