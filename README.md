@@ -20,7 +20,7 @@ Headings,
 Desciprive statitics (describe),
 Use of matplotlib and create histogram
 
-TASK 4 
+TASK 4:
 Relational Databases and Structured Query Language (SQL)
 use of the commands such as: 
 SELECT Queries,
