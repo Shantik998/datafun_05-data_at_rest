@@ -9,7 +9,6 @@ Understanding of files and text processing
 Serialization with JSON
 Serialization and Deserialization
 
-
 TASK 2:
 Load sqlite3 and conncet function to create a connection to database
 Details description is in  TASK 4
