@@ -14,13 +14,11 @@ Load sqlite3 and conncet function to create a connection to database
 Details description is in  TASK 4
 
 TASK 3:
-
 Read csv file and import dataset using csv function
 View dataset
 Headings
 Desciprive statitics (describe)
 Use of matplotlib and create histogram
-
 
 TASK 4 
 Relational Databases and Structured Query Language (SQL)
