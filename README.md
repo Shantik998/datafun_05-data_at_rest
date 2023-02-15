@@ -15,7 +15,7 @@ Project 5: Date: 02/13/2023
 # TASK 3:
 - Read csv file and import dataset using csv function, 
 - View dataset,
-# Headings,
+- Headings,
 - Desciprive statitics (describe),
 - Use of matplotlib and create histogram
 
